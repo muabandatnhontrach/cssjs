@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://bitly.com.vn/stats/2t69yi';
+	var url_popup = 'https://bandatnhontrach.vn/dat-song-ong-keo-nhon-trach-duong-oto-toi-dat/';
 
       //<![CDATA[
-	  // var url_ppp = 'https://bitly.com.vn/stats/v70sm4';
+	  // var url_ppp = 'https://bandatnhontrach.vn/quy-hoach-va-gia-dat-mat-tien-duong-pham-thai-buong-nhon-trach-2021/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
